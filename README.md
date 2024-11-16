@@ -1,7 +1,12 @@
 # list_chrome_tabs
 
 ## Overview
-A simple chrome extension to get the list of open chrome tabs
+
+A simple chrome extension to get the list of open chrome tabs.
+
+Nothing special here.
+
+I just needed to quickly list all the tabs I have open in chrome.
 
 Ref: https://chatgpt.com/c/6737ff32-fe84-8005-85c7-785ee630dd3e
 
